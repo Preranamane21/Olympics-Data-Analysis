@@ -92,6 +92,12 @@ Will an athlete win a Gold medal? (Yes/No)
 
 **4.Power BI Interactive Dashboard**
 
+<img width="1337" height="737" alt="Image" src="https://github.com/user-attachments/assets/8b8775c8-30e7-4d8f-9144-f9529f138961" />
+
+
+<img width="1312" height="746" alt="Image" src="https://github.com/user-attachments/assets/799e4bf2-b482-459f-a115-24f32614efdc" />
+
+
    
 **Key Insights**
 
